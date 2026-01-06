@@ -191,7 +191,7 @@ The foreigner says: {foreigner_message}
     tribal_reply = result["choices"][0]["message"]["content"].strip()
     return tribal_reply
 
-def toffi(translator: ConlangTranslator, foreigner_message: str, api_key: str = "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") -> dict:
+def toffi(translator: ConlangTranslator, foreigner_message: str, api_key: str = "API_KEY") -> dict:
     """
     Executes a full conversation turn in the pipeline:
     1. Conlang → English translation
@@ -618,10 +618,10 @@ def master_evaluator(response_transcript, word2cat, english_transcript):
         return lexical_acquisition(response_transcript, conlang_vocab)
 
     def task_syntax():
-        return syntax_evaluator(response_transcript, word2cat, api_key = "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")
+        return syntax_evaluator(response_transcript, word2cat, api_key = "API_key")
 
     def task_success():
-        return evaluate_conversational_success(english_transcript, api_key = "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")
+        return evaluate_conversational_success(english_transcript, api_key = "API_key")
 
     tasks = {
         "lexical": task_lexical,
@@ -761,4 +761,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
