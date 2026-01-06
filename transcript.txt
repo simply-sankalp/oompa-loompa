@@ -1,0 +1,100 @@
+Tribal Bot: savi piro jalo
+google/gemini-2.5-flash: gogo melo lita   (took 0.65s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: sava golo tolo   (took 0.78s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: sava piro golo   (took 0.74s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: golo savi piro   (took 0.66s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi golo piro   (took 0.69s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: piro savi golo   (took 0.65s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: golo piro savi   (took 0.74s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: piro golo savi   (took 0.55s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi jalo piro   (took 0.85s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: piro jalo savi   (took 0.83s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: jalo savi piro   (took 0.67s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: jalo piro savi   (took 0.73s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi rina piro   (took 0.79s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: piro rina savi   (took 0.62s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: rina savi piro   (took 1.12s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: rina piro savi   (took 0.74s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi piro rina   (took 1.05s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: piro savi rina   (took 0.76s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi jalo melo   (took 0.90s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: jalo savi melo   (took 0.71s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: melo savi jalo   (took 0.76s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: melo jalo savi   (took 0.66s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: jalo melo savi   (took 0.83s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi melo jalo   (took 0.92s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi rina melo   (took 0.87s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: rina savi melo   (took 0.72s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: melo savi rina   (took 0.93s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: melo rina savi   (took 0.83s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: rina melo savi   (took 0.87s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi melo rina   (took 0.75s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi piro loha   (took 0.75s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: piro savi loha   (took 0.87s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: loha savi piro   (took 0.80s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi loha piro   (took 0.78s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: piro loha savi   (took 0.75s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: loha piro savi   (took 0.75s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi golo lera   (took 0.96s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: golo savi lera   (took 0.79s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: lera savi golo   (took 0.73s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi lera golo   (took 0.70s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: golo lera savi   (took 1.11s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: lera golo savi   (took 1.23s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi tula melo   (took 0.74s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: tula savi melo   (took 0.78s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: melo savi tula   (took 0.79s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi melo tula   (took 1.43s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: tula melo savi   (took 0.74s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: melo tula savi   (took 0.67s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: savi jina lamo   (took 0.87s)
+Tribal Bot: mira keta rina
+google/gemini-2.5-flash: jina savi lamo   (took 0.75s)
